@@ -1,0 +1,24 @@
+
+/* this exercise wants to use classes only to style
+each class given separately its own class then
+both classes are given the same properties grouped */
+
+.style1 {
+
+    background-color: black;
+    color:white;
+
+}
+
+
+.style2 {
+    background-color: yellow;
+    color:black;
+}
+
+
+.style1, .style2 {
+
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+}
