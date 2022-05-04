@@ -1,0 +1,25 @@
+
+
+.pinkbg {
+
+    background-color: rgba(255,167,167,255);
+    font-family: 'Veranda', 'DeJaVu', sans-serif ;
+}
+
+
+#secondElement {
+    color: blue;
+    font-size: 36px;
+}
+
+.thirdelement {
+    font-size: 24px;
+}
+
+
+#fourthelement {
+    background-color: #84fb84;
+    font-size: 24px;
+    font-weight: bold;
+
+}
